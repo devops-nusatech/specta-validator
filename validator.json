@@ -1,0 +1,91 @@
+[
+    {
+       "address": "0xC757256ff53ef51b6110e936Ad209382EfbAF887",
+       "stake": 1000,
+       "active": true,
+       "validatedBlock": 11229,
+       "commission": 8,
+       "name": "Coinbase Cloud 02",
+       "link": "https://www.coinbase.com/cloud",
+       "descriptionn": "Coinbase Cloud provides secure and reliable blockchain infrastructure and APIs. Stake your crypto to our enterprise-grade validators.",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/68d8ed237f31e993a8eac1bca7512a05_360_360.jpg"
+    },
+    {
+       "address": "0xe0b2E332dCbF8eA11EbbFCd5e5eaC3D0cE0d7867",
+       "stake": 7623469,
+       "active": true,
+       "validatedBlock": 11249,
+       "commission": 7,
+       "name": "Ledger by Figment",
+       "link": "https://www.ledger.com/staking",
+       "descriptionn": "",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/3c47b62f3d28ecfd821536f69be82905_360_360.jpg"
+    },
+    {
+       "address": "0xde0d7fBb9fD9f06b01137A51Ca1f8a74D1990eB4",
+       "stake": 7429315,
+       "active": true,
+       "validatedBlock": 11242,
+       "commission": 7,
+       "name": "P2P.org",
+       "link": "https://p2p.org",
+       "descriptionn": "Secure non-custodial SOL staking service | Solana seed investors and contributors | Wormhole Hackathon Winners.",
+       "pictureURL": "https://cdn.p2p.org/p2p360_logo.png"
+    },
+    {
+       "address": "0xcEFdB01C3Ac7f447F6c714c88a00406F72191b43",
+       "stake": 6626100,
+       "active": true,
+       "validatedBlock": 11242,
+       "commission": 7,
+       "name": "Everstake",
+       "link": "https://everstake.one",
+       "descriptionn": "Everstake is a staking-as-a-service company from Ukraine. We help institutional investors and regular token holders to profit off their crypto assets. Choose the most promising projects, delegate with Everstake and make 5%-20% annually.",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/fa01e6109b3fd4579c4bdd445d75ad05_360_360.jpg"
+    },
+    {
+       "address": "0xC981cc982d6C462C9d448bc4a9FF581eC9EFCAC8",
+       "stake": 65636845,
+       "active": true,
+       "validatedBlock": 11238,
+       "commission": 7,
+       "name": "Figment",
+       "link": "https://figment.io",
+       "descriptionn": "",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/bd5fb87f241bd78a9c4bceaaa849ca05_360_360.jpg"
+    },
+    {
+       "address": "0xF9c1bE98eCa0334bc038f73632979524F9f174e9",
+       "stake": 6136754,
+       "active": true,
+       "validatedBlock": 11242,
+       "commission": 8,
+       "name": "Staking Facilities | MEV 🔥",
+       "link": "https://stakingfacilities.com",
+       "descriptionn": "We invest in leading crypto networks & operate secure, performant, and highly available bare-metal infrastructure out of Germany.",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/bfe5fc72eaafa5a4444eb048fd88a705_360_360.jpg"
+    },
+    {
+       "address": "0x033595a2E648bE1a9e1d483F0ff5F081ddF8d389",
+       "stake": 5494208,
+       "active": true,
+       "validatedBlock": 11249,
+       "commission": 4,
+       "name": "Jito1",
+       "link": "https://jito.wtf",
+       "descriptionn": "Jito Labs builds high performance infrastructure for the Solana Blockchain. Stake to our validator to earn your share of MEV!",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/0e22cc59ab1c3fc75b95ce9fb7a9e705_360_360.jpg"
+    },
+    {
+       "address": "0xfA568451979309C2201a327A5B990968e99D984b",
+       "stake": 5460104,
+       "active": true,
+       "validatedBlock": 11238,
+       "commission": 8,
+       "name": "Coinbase Cloud",
+       "link": "https://www.coinbase.com/cloud",
+       "descriptionn": "Coinbase Cloud provides secure and reliable blockchain infrastructure and APIs. Stake your crypto to our enterprise-grade validators.",
+       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/68d8ed237f31e993a8eac1bca7512a05_360_360.jpg"
+    }
+    
+ ]

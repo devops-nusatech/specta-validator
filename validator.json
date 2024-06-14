@@ -1,13 +1,13 @@
-[
+`[
     {
        "address": "0xC757256ff53ef51b6110e936Ad209382EfbAF887",
        "stake": 1000,
        "active": true,
        "validatedBlock": 11229,
        "commission": 8,
-       "name": "S'KOBAR",
+       "name": "🔥 S'KOBAR",
        "link": "",
-       "descriptionn": "S'KOBAR is profesional blockchain solution.",
+       "descriptionn": "S'KOBAR specializes in secure blockchain solutions, including smart contract development, custom blockchain platforms, and DeFi services. Their expert team focuses on enhancing business efficiency and security through blockchain technology.",
        "pictureURL": ""
     },
     {
@@ -16,10 +16,10 @@
        "active": true,
        "validatedBlock": 11249,
        "commission": 7,
-       "name": "Ledger by Figment",
-       "link": "https://www.ledger.com/staking",
-       "descriptionn": "",
-       "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/3c47b62f3d28ecfd821536f69be82905_360_360.jpg"
+       "name": "🌐 Karya Global Solusindo",
+       "link": "",
+       "descriptionn": "Solusi Indo has created groundbreaking blockchain solutions that make transactions safer and more transparent across different industries. Their technology ensures smooth operations and boosts trust in decentralized systems.",
+       "pictureURL": "https://i.ibb.co/0r8xKJZ/Screenshot-from-2024-06-14-13-37-44-removebg-preview.png"
     },
     {
        "address": "0xde0d7fBb9fD9f06b01137A51Ca1f8a74D1990eB4",
@@ -60,8 +60,8 @@
        "active": true,
        "validatedBlock": 11242,
        "commission": 8,
-       "name": "GRASINDO 🔥",
-       "link": "This tech company specializes in secure blockchain solutions, including smart contract development, custom blockchain platforms, and DeFi services. Their expert team focuses on enhancing business efficiency and security through blockchain technology.",
+       "name": "🍀 GRASINDO",
+       "link": "",
        "descriptionn": "We invest in leading crypto networks & operate secure, performant, and highly available bare-metal infrastructure out of Germany.",
        "pictureURL": "https://s3.amazonaws.com/keybase_processed_uploads/bfe5fc72eaafa5a4444eb048fd88a705_360_360.jpg"
     },
